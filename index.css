@@ -1,3 +1,37 @@
 body {
   font-family: "Castoro", "Microsoft JhengHei", serif;
 }
+
+.container {
+  width: 1296px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 128px;
+  line-height: 192px;
+  letter-spacing: 0.12em;
+}
+
+.vito {
+  display: block;
+  margin: 0 auto;
+}
+
+.text-right {
+  width: 636px;
+  margin-left: auto;
+}
+
+.aboutME {
+  background: #EFEFEF;
+}
+
+.content {
+  width: 636px;
+  margin-left: auto;
+  font-size: 32px;
+  line-height: 48px;
+  padding-top: 48px;
+  padding-bottom: 48px;
+}

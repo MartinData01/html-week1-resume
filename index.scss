@@ -27,11 +27,52 @@ body{
 .aboutME{
     background: #EFEFEF;
 }
-.content{
+.about-text{
     width: 636px;
     margin-left: auto;
     font-size: 32px;
     line-height: 48px;
     padding-top: 48px;
     padding-bottom: 48px;
+}
+
+.intro{
+    width: 636px;
+    margin-top: 80px;
+    margin-bottom: 160px;
+}
+.intro-title{
+    font-size: 40px;
+    line-height: 60px;
+    color: #AE0000;
+    border-bottom: 3px solid #AE0000;
+    margin-bottom: 16px;
+}
+.intro-content{
+    margin-bottom: 40px;
+}
+.intro-content li{
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 8px;
+}
+.intro-content li:last-child{
+    margin-bottom: 0;
+}
+.intro-years{
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+    color: #949494;
+}
+
+.footer{
+    background: #000;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+.footer-img{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
 }

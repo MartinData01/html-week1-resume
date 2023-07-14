@@ -14,7 +14,6 @@ body{
     font-size: 128px;
     line-height: 192px;
     letter-spacing: 0.12em;
-    margin-top: 160px;
 }
 .vito{
     display: block;
@@ -76,4 +75,8 @@ body{
     display: flex;
     gap: 40px;
     justify-content: center;
+}
+
+.mt-160{
+    margin-top: 160px;
 }
